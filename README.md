@@ -1,15 +1,14 @@
 ### Hi there 👋
 I am Amarnath
 
-### What the critics are saying about this README
+### What the critics are saying about me
+> *"Amarnath's repositories are a sheer wastage of our cloud storage"*
+    - **Nat Friedman**
 
 > *"Illuminating ... who would have known that a piece of writing could be this useless."*
     - **New York Times**
  
-> *"A sheer wastage of our cloud storage"*
-    - **Nat Friedman**
- 
-> *"Calling this lazy writing would be an understatement"*
+> *"Calling his blogs lazy writing would be an understatement"*
     - **The Atlantic**
  
 <!--
